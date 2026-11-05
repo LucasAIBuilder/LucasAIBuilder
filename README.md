@@ -17,9 +17,9 @@ Most of what I build is private: client systems and elements of my own agent inf
 - **fitchmultz/pi-cursor-sdk** [#343](https://github.com/fitchmultz/pi-cursor-sdk/pull/343): Grok 4.7 default-context fix (merged via the maintainer's mirror PR [#344](https://github.com/fitchmultz/pi-cursor-sdk/pull/344), with attribution)
 
 ## Issues reported and fixed upstream
-- **steipete/summarize** [#61](https://github.com/steipete/summarize/issues/61): hidden-text indirect prompt injection in extracted web content
-- **openclaw/openclaw** [#8027](https://github.com/openclaw/openclaw/issues/8027): the same prompt-injection vector in `web_fetch` (fixed in #21074; the changelog credits the report)
-- **openclaw/openclaw** [#20979](https://github.com/openclaw/openclaw/issues/20979): default sandbox config broke file tools for non-root gateway users
+- **steipete/summarize** [#61](https://github.com/steipete/summarize/issues/61): hidden-text indirect prompt injection in extracted web content (fixed in [660f0bb](https://github.com/steipete/summarize/commit/660f0bb3fe1f9b278f30eb79a5aa2f69e7b15c38))
+- **openclaw/openclaw** [#8027](https://github.com/openclaw/openclaw/issues/8027): the same prompt-injection vector in `web_fetch` (fixed in [#21074](https://github.com/openclaw/openclaw/pull/21074); the changelog credits the report)
+- **openclaw/openclaw** [#20979](https://github.com/openclaw/openclaw/issues/20979): default sandbox config broke file tools for non-root gateway users (fixed in [a30f9c867](https://github.com/openclaw/openclaw/commit/a30f9c867365ec39e2a04c98ce49311bd6c11a5e))
 
 ## Elsewhere
 [lucasmachado.com](https://lucasmachado.com) · [LinkedIn](https://www.linkedin.com/in/lucas-machado-consulting/)
