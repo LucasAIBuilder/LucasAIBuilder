@@ -14,7 +14,7 @@ Most of what I build is private: client systems and elements of my own agent inf
 - **PostHog/posthog-roblox** [#28](https://github.com/PostHog/posthog-roblox/pull/28): feature-flag cache fix, shipped as the only change in v0.2.1
 - **PostHog/posthog.com** [#21566](https://github.com/PostHog/posthog.com/pull/21566): docs fix for the cookieless tracking setting
 - **steipete/sweet-cookie** [#15](https://github.com/steipete/sweet-cookie/pull/15): Brave cookie extraction on Linux and macOS
-- **fitchmultz/pi-cursor-sdk** [#343](https://github.com/fitchmultz/pi-cursor-sdk/pull/343): Grok 4.7 default-context fix (merged via the maintainer's mirror PR #344, with attribution)
+- **fitchmultz/pi-cursor-sdk** [#343](https://github.com/fitchmultz/pi-cursor-sdk/pull/343): Grok 4.7 default-context fix (merged via the maintainer's mirror PR [#344](https://github.com/fitchmultz/pi-cursor-sdk/pull/344), with attribution)
 
 ## Issues reported and fixed upstream
 - **steipete/summarize** [#61](https://github.com/steipete/summarize/issues/61): hidden-text indirect prompt injection in extracted web content
