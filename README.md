@@ -13,7 +13,7 @@ Engineer by training (Rutgers, B.S. Electrical & Computer Engineering; Carnegie 
 ## Open-source projects
 - [cursorfx](https://github.com/LucasAIBuilder/cursorfx): mouse pointer highlighter for screen recordings and streaming
 - [cursor-usage-status](https://github.com/LucasAIBuilder/cursor-usage-status): dependency-free CLI to check your Cursor usage from the terminal, built with a careful security model for the session cookie
-- [napkinmath](https://napkinmath.app): a Soulver-inspired natural-language notepad calculator that runs in the browser (repo going public soon)
+- [napkinmath](https://github.com/LucasAIBuilder/napkinmath): a Soulver-inspired natural-language notepad calculator that runs in the browser. Try it at [napkinmath.app](https://napkinmath.app).
 
 Most of what I've built is private, either because it's client work or because it started as tools for my own use, and I'm in the process of open-sourcing a lot of the latter.
 
