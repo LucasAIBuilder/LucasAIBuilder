@@ -8,6 +8,7 @@ Engineer by training (Rutgers, B.S. Electrical & Computer Engineering; Carnegie 
 - **PostHog/posthog-roblox** [#28](https://github.com/PostHog/posthog-roblox/pull/28): feature-flag cache fix, shipped as the only change in v0.2.1
 - **PostHog/posthog.com** [#21566](https://github.com/PostHog/posthog.com/pull/21566): docs fix for the cookieless tracking setting
 - **PostHog/posthog.com** [#21569](https://github.com/PostHog/posthog.com/pull/21569): docs fix so stdio MCP servers flush analytics events when stdin ends
+- **PostHog/posthog.com** [#21543](https://github.com/PostHog/posthog.com/pull/21543): docs fix so the MCP FAQ matches how project pinning and per-session context work
 - **PostHog/hoglabs-gtm** [#5](https://github.com/PostHog/hoglabs-gtm/pull/5): Lab 02 starter-app fix so server check-in events carry the workspace (merged as [#7](https://github.com/PostHog/hoglabs-gtm/pull/7), with me as co-author)
 - **PostHog/hoglabs-gtm** [#6](https://github.com/PostHog/hoglabs-gtm/pull/6): updated stale People and groups paths in Lab 02 (merged as [#8](https://github.com/PostHog/hoglabs-gtm/pull/8), with me as co-author)
 - **steipete/sweet-cookie** [#15](https://github.com/steipete/sweet-cookie/pull/15): Brave cookie extraction on Linux and macOS
